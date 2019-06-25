@@ -9,5 +9,7 @@ public class Demo {
         for (int i = 0; i < 10; i++) {
             System.out.println("中国梦， 世界梦");
         }
+
+        System.out.println("追逐梦想的脚步");
     }
 }
